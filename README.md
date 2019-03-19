@@ -15,7 +15,7 @@ There are 2 folders inside the lab directory (excluding the glm folder), each co
 
 The raytracer renders the Cornell Box by using a raytracer approach.
 To run the code, type 'make && ./Build/raytracer' in the terminal.
-- To move frond and back in the view, press the up and down arrow keys.
+- To move front and back in the view, press the up and down arrow keys.
 - To rotate left and right, press left and right arrow keys.
 - To move light position, use W A S D keys.
 
@@ -23,5 +23,5 @@ To run the code, type 'make && ./Build/raytracer' in the terminal.
 
 The rasteriser renders the Cornell Box by using a rasteriser approach.
 To run the code, type 'make && ./Build/rasteriser' in the terminal.
-- To move frond and back in the view, press the up and down arrow keys.
+- To move front and back in the view, press the up and down arrow keys.
 - To rotate left and right, press left and right arrow keys.
